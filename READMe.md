@@ -19,7 +19,7 @@ npm run dev
 ### Links
 
 - Solution URL: [Stack Blitz](https://stackblitz.com/edit/vitejs-vite-pxepk8?file=src%2FApp.jsx)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [vercel](https://frontend-mentor-qr-code-component-omega.vercel.app/)
 
 ### Built with
 
